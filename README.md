@@ -1,4 +1,4 @@
-# FLYGEB 
+# FLYGEN
 
 A Cli tool to generate flyway migration file (only sql).
 
